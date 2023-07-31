@@ -1,0 +1,35 @@
+.div_chart{
+    width: 500px;
+    background-color: #394f62;
+    margin-top: 50px;
+    margin-left: 30px;
+    padding: 30px;
+  
+}
+.charts{
+    display: flex;
+  
+}
+.chartdiv p{
+    color: white;
+}
+.notif{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-top: 5px;
+   display: flex;
+   height: 113px;
+    background-color:  #567086;
+}
+.notif img{
+    border-radius: 100%;
+    height: 90px;
+    width: 100px;
+    margin: 13px;
+   
+}
+#time{
+    color:#6d8da6;
+    
+}
